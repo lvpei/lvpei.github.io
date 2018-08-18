@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr.Pei Lv"
+title                    : "Pei Lv"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
