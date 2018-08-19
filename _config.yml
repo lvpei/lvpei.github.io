@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Dr. Pei Lv"
   avatar           : "pei.png"
-  bio              : "Associate Professor, Zhengzhou University. Research interests include Virtual Reality(crowd simulation) and Artificial Intelligence(computer vision)
-  location         : "Zhengzhou"
+  bio              : 
+  location         : 
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=9OpBEgQAAAAJ&hl=zh-CN"
+  googlescholar    : 
   email            : 
   uri              :
   bitbucket        :
