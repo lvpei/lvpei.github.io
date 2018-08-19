@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lv Pei's Personal Homepage"
+title                    : "Dr. Lv Pei's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,8 +84,8 @@ author:
   bio              : 
   location         : 
   employer         :
-  googlescholar    : "ielvpei@zzu.edu.cn"
-  email            : 
+  googlescholar    : 
+  email            : "ielvpei@zzu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
