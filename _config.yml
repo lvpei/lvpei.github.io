@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pei Lv"
+title                    : "Lv Pei's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Pei Lv"
+  name             : "Dr. Lv Pei"
   avatar           : "pei.png"
   bio              : 
   location         : 
