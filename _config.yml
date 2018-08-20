@@ -82,8 +82,8 @@ author:
   name             : "Lv Pei"
   avatar           : "pei.png"
   bio              : "Associate Professor Zhengzhou University Research interests include computer vision and computer graphics"
-  location         : 
-  employer         :
+  location         : "Zhengzhou"
+  employer         : "Zhengzhou University"
   googlescholar    : 
   email            : "ielvpei@zzu.edu.cn"
   uri              :
@@ -223,14 +223,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
