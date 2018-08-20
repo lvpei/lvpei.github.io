@@ -7,3 +7,5 @@ venue: "Zhengzhou University, Industrial Technology Research Institute"
 date: 
 location: "Zhengzhou, China"
 ---
+
+Monday, AM 2:30~5:30, from second week to ninth week.
