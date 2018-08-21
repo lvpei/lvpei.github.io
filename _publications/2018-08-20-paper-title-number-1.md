@@ -8,5 +8,3 @@ venue: 'In Proceedings of 2018 ACM Multimedia Conference (MM 18)'
 paperurl: 'http://lvpei.github.io/files/paper3.pdf'
 citation: 'Pei Lv, Meng Wang, Yongbo Xu, Ze Peng, Junyi Sun, Shimei Su, Bing Zhou, and Mingliang Xu. 2018. USAR: An Interactive User-specific Aesthetic Ranking Framework for Images. In Proceedings of 2018 ACM Multimedia Conference (MM 18). ACM, New York, NY, USA, 9 pages. https: //doi.org/10.1145/3240508.3240635'
 ---
-
-Recommended citation: Pei Lv, Meng Wang, Yongbo Xu, Ze Peng, Junyi Sun, Shimei Su, Bing Zhou, and Mingliang Xu. 2018. USAR: An Interactive User-specific Aesthetic Ranking Framework for Images. In Proceedings of 2018 ACM Multimedia Conference (MM 18). ACM, New York, NY, USA, 9 pages. https: //doi.org/10.1145/3240508.3240635
