@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Lv Pei's academic homepage"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
