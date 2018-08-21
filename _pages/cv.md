@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Zhengzhou University, 2004~2008
+* Ph.D in Zhejiang University, 2008~2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* July 2013 ~ December 2014: Research Engineering
+  * Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD.
 
 * Fall 2015: Research Assistant
   * Github University
