@@ -20,19 +20,22 @@ Work experience
 * July 2013 ~ December 2014: Research Engineering
   * Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2015 ~ March 2018: Assistant Professor
+  * School of Information Engineering, Zhengzhou University.
+
+* April 2018 ~ Now: Associate Professor
+  * School of Information Engineering, Zhengzhou University.  
   
-Skills
+  
+  
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Graphics
+  * Crowd Simulation
+* Computer Vision
+  * object detection
+  * pose estimation
+  * scene classification
 
 Publications
 ======
