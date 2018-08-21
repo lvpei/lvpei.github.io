@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 
-* July 2013 ~ December 2014: Research Engineering
+* July 2013 ~ December 2014: Research Engineer
   * Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD.
 
 * February 2015 ~ March 2018: Assistant Professor
