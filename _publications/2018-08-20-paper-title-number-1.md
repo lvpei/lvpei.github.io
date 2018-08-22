@@ -7,3 +7,5 @@ date: 2018-08-20
 venue: 'In Proceedings of 2018 ACM Multimedia Conference (MM 18)'
 paperurl: 'http://lvpei.github.io/files/paper3.pdf'
 ---
+
+Pei Lv, Meng Wang, Yongbo Xu, Ze Peng, Junyi Sun, Shimei Su, Bing Zhou and Mingliang Xu.
