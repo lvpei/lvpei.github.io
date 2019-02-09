@@ -4,7 +4,7 @@ collection: teaching
 type: "undergraduate course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "Zhengzhou University, School of Information Engineering"
-date: 2019-0-01
+date: 2019-02-09
 location: "Zhengzhou, China"
 ---
 
