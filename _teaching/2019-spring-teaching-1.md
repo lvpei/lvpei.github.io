@@ -1,0 +1,12 @@
+---
+title: "Multimedia technology"
+collection: teaching
+type: "undergraduate course"
+permalink: /teaching/2019-spring-teaching-1
+venue: "Zhengzhou University, School of Information Engineering"
+date: 2019-0-01
+location: "Zhengzhou, China"
+---
+
+Monday, AM 8:00 ~ 9:40, N1-104, from 1st - 10th week with two weeks break.
+Monday, AM 10:00 ~ 11:40, N1-103, from 1st - 10th week with two weeks break.
