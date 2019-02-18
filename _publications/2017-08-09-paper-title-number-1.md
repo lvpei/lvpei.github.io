@@ -7,4 +7,4 @@ date: 2017-08-09
 venue: 'IEEE Transactions on Image Processing'
 ---
 
-Mingliang Xu, Jiejie Zhu, Pei Lv, Bing Zhou, Marshall F. Tappen and Rongrong Ji
+Mingliang Xu, Jiejie Zhu, **Pei Lv**, Bing Zhou, Marshall F. Tappen and Rongrong Ji

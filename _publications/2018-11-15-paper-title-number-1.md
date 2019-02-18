@@ -8,4 +8,4 @@ venue: ' IEEE Transactions on Computational Social Systems '
 
 ---
 
-Pei Lv, Zhujin Zhang, Chaochao Li, Yibo Guo, Bing Zhou and Mingliang Xu.
+**Pei Lv**, Zhujin Zhang, Chaochao Li, Yibo Guo, Bing Zhou and Mingliang Xu.

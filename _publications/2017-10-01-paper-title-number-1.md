@@ -8,4 +8,4 @@ venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: 'http://lvpei.github.io/files/paper1.pdf'
 ---
 
-Mingliang Xu, Chunxu Li, Pei Lv*, Nie Lin, Rui Hou and Bing Zhou
+Mingliang Xu, Chunxu Li, **Pei Lv***, Nie Lin, Rui Hou and Bing Zhou

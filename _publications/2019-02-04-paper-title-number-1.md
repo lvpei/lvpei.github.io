@@ -8,4 +8,4 @@ venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems (Accepted)'
 
 ---
 
-Mingliang Xu, Xiaozheng Xie, Pei Lv*, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou.
+Mingliang Xu, Xiaozheng Xie, **Pei Lv***, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou.
