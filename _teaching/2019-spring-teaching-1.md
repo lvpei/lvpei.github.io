@@ -11,7 +11,6 @@ paperurl: 'http://lvpei.github.io/files/introduction.pptx'
 paperurl: 'http://lvpei.github.io/files/1.pptx'
 paperurl: 'http://lvpei.github.io/files/2.pptx'
 
-This is [introduction](http://lvpei.github.io/files/introduction.pptx)
 ---
 
 Monday, AM 8:00-9:40, N1-104, from 1st - 10th week with two weeks break.    
