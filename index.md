@@ -24,6 +24,7 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
   <br>
   IEEE Transactions on Computational Social Systems. Accepted, 2021
   <br>
+[[PDF](https://arxiv.org/abs/2102.10971)] 
   
 - **Crowd Behavior Simulation with Emotional Contagion in Unexpected Multi-hazard Situations**
   <br>
