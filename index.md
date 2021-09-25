@@ -22,14 +22,14 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
   <br>
   **Pei Lv**, Quan Zhang, Boya Xu, Ran Feng, Chaochao Li, Junxiao Xue, Bing Zhou, Mingliang
   <br>
-  IEEE Transactions on Computational Social Systems. Accepted
+  IEEE Transactions on Computational Social Systems. Accepted, 2021
   <br>
   
 - **Crowd Behavior Simulation with Emotional Contagion in Unexpected Multi-hazard Situations**
   <br>
   Mingliang Xu, Xiaozheng Xie, **Pei Lv**, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
   <br>
-  IEEE Transactions on Systems, Man, and Cybernetics: Systems
+  IEEE Transactions on Systems, Man, and Cybernetics: Systems, Vol.51(3): 1567-1581, 2021.
   <br>
   
 
@@ -37,8 +37,57 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
   <br>
   Mingliang Xu, Chaochao Li, **Pei Lv**, Wei Chen, Zhigang Deng, Bing Zhou and Dinesh Manocha
   <br>
-  IEEE Transactions on Intelligent Transportation System.
+  IEEE Transactions on Intelligent Transportation System.2020
   <br>
+
+
+- **Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation**
+  <br>
+  Shengyuan Liu, **Pei Lv**, Jie Fu, Yuzhen Zhang, Junjing Cheng, Wanqing Li, Bing Zhou, Mingliang Xu
+  <br>
+   IJCAI-PRICAI 2020
+  <br>
+
+
+- **ACSEE: Antagonistic Crowd Simulation Model with Emotional Contagion and Evolutionary Game Theory**
+  <br>
+  Chaochao Li, **Pei Lv**, Dinesh Manocha, Hua Wang, Yafei Li, Bing Zhou and Mingliang Xu
+  <br>
+   IEEE Transactions on Affective Computing, 2019
+  <br>
+
+
+- **Crowd Behavior Evolution with Emotional Contagion in Political Rallies**
+  <br>
+  Pei Lv, Zhujin Zhang, Chaochao Li, Yibo Guo, Bing Zhou, Mingliang Xu
+  <br>
+   IEEE Transactions on Computational Social Systems, Vol.6(2):377-386, 2019.
+  <br>
+
+
+- **USAR: an interactive user-specific aesthetic ranking framework for images**
+  <br>
+  Pei Lv, Meng Wang, Yongbo Xu, Ze Peng, Junyi Sun, Shimei Su, Bing Zhou, Mingliang Xu
+  <br>
+   Proceedings of the 2018 ACM Multimedia Conference, p 1328-1336, 2018.
+  <br>
+
+- **An efficient method of crowd aggregation computation in public areas**
+  <br>
+  Mingliang Xu, Chunxu Li, **Pei Lv**, Nie Lin, Rui Hou, Bing Zhou
+  <br>
+   IEEE Transactions on Circuits and Systems for Video Technology, Vol.28(10):2814-2825, 2018
+  <br>
+
+
+- **Learning-Based Shadow Recognition and Removal From Monochromatic Natural Images**
+  <br>
+  	Mingliang Xu, Jiejie Zhu, **Pei Lv**, Bing Zhou, Marshall F. Tappen, Rongrong Ji
+  <br>
+	IEEE Transactions on Image Processing, Vol. 26(12): 5811-5824, 2017.
+  <br>
+
+
 
 ## Services
 
