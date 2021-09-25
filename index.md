@@ -33,15 +33,12 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
   <br>
   
 
-- ** Emotion-Based Crowd Simulation Model Based on Physical Strength Consumption for Emergency Scenarios.**
+- **Emotion-Based Crowd Simulation Model Based on Physical Strength Consumption for Emergency Scenarios**
   <br>
   Mingliang Xu, Chaochao Li, **Pei Lv**, Wei Chen, Zhigang Deng, Bing Zhou and Dinesh Manocha
   <br>
-  IEEE Transactions on Intelligent Transportation System
+  IEEE Transactions on Intelligent Transportation System.
   <br>
-
-
-
 
 ## Services
 
