@@ -16,7 +16,7 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
 
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
-## Publications
+## Selected Publications
 
 - **Agent-Based Campus Novel Coronavirus Infection and Control Simulation**
   <br>
@@ -38,7 +38,7 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
   <br>
   Mingliang Xu, Chaochao Li, **Pei Lv**, Wei Chen, Zhigang Deng, Bing Zhou and Dinesh Manocha
   <br>
-  IEEE Transactions on Intelligent Transportation System.2020
+  IEEE Transactions on Intelligent Transportation System, 2020
   <br>
 
 
@@ -46,7 +46,7 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
   <br>
   Shengyuan Liu, **Pei Lv**, Jie Fu, Yuzhen Zhang, Junjing Cheng, Wanqing Li, Bing Zhou, Mingliang Xu
   <br>
-   IJCAI-PRICAI 2020
+   IJCAI-PRICAI 2020. CCF-A
   <br>
 
 
@@ -70,7 +70,7 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
   <br>
   Pei Lv, Meng Wang, Yongbo Xu, Ze Peng, Junyi Sun, Shimei Su, Bing Zhou, Mingliang Xu
   <br>
-   Proceedings of the 2018 ACM Multimedia Conference, p 1328-1336, 2018.
+   Proceedings of the 2018 ACM Multimedia Conference, p 1328-1336, 2018. CCF-A
   <br>
 
 - **An efficient method of crowd aggregation computation in public areas**
@@ -87,8 +87,14 @@ I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Gr
   <br>
 	IEEE Transactions on Image Processing, Vol. 26(12): 5811-5824, 2017.
   <br>
-
-
+  
+- **A Suggestive Interface for Sketch-based Character Posing**
+  <br>
+  	Pei Lv, Pengjie Wang, Weiwei Xu, Jinxiang Chai, Mingmin Zhang, Zhigeng Pan and Mingliang Xu
+  <br>
+	Computer Graphics Fo-rum, Vol. 34(7):111-121, 2015.
+  <br>
+  
 
 ## Services
 
