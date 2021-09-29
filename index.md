@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently an Associate Professor with School of Information Engineering, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart hearthcare. I have published more than 40 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
+I am currently an Associate Professor with School of Information Engineering, Zhengzhou University. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart healthcare. I have published more than 40 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
 
 
 ## Research Interests
 
-- **Computer Vision:** human pose estimation, action recognition, object detection, image quality assessment,
+- **Computer Vision:** human pose estimation, action recognition, object detection, image quality assessment
 - **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
@@ -28,7 +28,7 @@ I am currently an Associate Professor with School of Information Engineering, Zh
   
 - **Crowd Behavior Simulation with Emotional Contagion in Unexpected Multi-hazard Situations**
   <br>
-  Mingliang Xu, Xiaozheng Xie, **Pei Lv**, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
+  Mingliang Xu, Xiaozheng Xie, **Pei Lv<sup>*</sup>**, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
   <br>
   IEEE Transactions on Systems, Man, and Cybernetics: Systems, Vol.51(3): 1567-1581, 2021.
   <br>
