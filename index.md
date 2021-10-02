@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently an Associate Professor with School of Information Engineering, Zhengzhou University. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart healthcare. I have published more than 40 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
+I am currently an Associate Professor with School of Information Engineering, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart hearthcare. I have published more than 40 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
 
 
 ## Research Interests
 
-- **Computer Vision:** human pose estimation, action recognition, object detection, image quality assessment
+- **Computer Vision:** human pose estimation, action recognition, object detection, image quality assessment,
 - **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
@@ -28,7 +28,7 @@ I am currently an Associate Professor with School of Information Engineering, Zh
   
 - **Crowd Behavior Simulation with Emotional Contagion in Unexpected Multi-hazard Situations**
   <br>
-  Mingliang Xu, Xiaozheng Xie, **Pei Lv<sup>*</sup>**, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
+  Mingliang Xu, Xiaozheng Xie, **Pei Lv**<sup>*</sup>, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
   <br>
   IEEE Transactions on Systems, Man, and Cybernetics: Systems, Vol.51(3): 1567-1581, 2021.
   <br>
@@ -36,7 +36,7 @@ I am currently an Associate Professor with School of Information Engineering, Zh
 
 - **Emotion-Based Crowd Simulation Model Based on Physical Strength Consumption for Emergency Scenarios**
   <br>
-  Mingliang Xu, Chaochao Li, **Pei Lv**, Wei Chen, Zhigang Deng, Bing Zhou and Dinesh Manocha
+  Mingliang Xu, Chaochao Li, **Pei Lv**<sup>*</sup>, Wei Chen, Zhigang Deng, Bing Zhou and Dinesh Manocha
   <br>
   IEEE Transactions on Intelligent Transportation System, 2020
   <br>
@@ -44,9 +44,9 @@ I am currently an Associate Professor with School of Information Engineering, Zh
 
 - **Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation**
   <br>
-  Shengyuan Liu, **Pei Lv**, Jie Fu, Yuzhen Zhang, Junjing Cheng, Wanqing Li, Bing Zhou, Mingliang Xu
+  Shengyuan Liu, **Pei Lv**<sup>*</sup>, Jie Fu, Yuzhen Zhang, Junjing Cheng, Wanqing Li, Bing Zhou, Mingliang Xu
   <br>
-   IJCAI-PRICAI 2020. CCF-A
+   IJCAI-PRICAI 2020.
   <br>
 
 
@@ -60,7 +60,7 @@ I am currently an Associate Professor with School of Information Engineering, Zh
 
 - **Crowd Behavior Evolution with Emotional Contagion in Political Rallies**
   <br>
-  Pei Lv, Zhujin Zhang, Chaochao Li, Yibo Guo, Bing Zhou, Mingliang Xu
+  **Pei Lv**, Zhujin Zhang, Chaochao Li, Yibo Guo, Bing Zhou, Mingliang Xu
   <br>
    IEEE Transactions on Computational Social Systems, Vol.6(2):377-386, 2019.
   <br>
@@ -68,14 +68,14 @@ I am currently an Associate Professor with School of Information Engineering, Zh
 
 - **USAR: an interactive user-specific aesthetic ranking framework for images**
   <br>
-  Pei Lv, Meng Wang, Yongbo Xu, Ze Peng, Junyi Sun, Shimei Su, Bing Zhou, Mingliang Xu
+  **Pei Lv**, Meng Wang, Yongbo Xu, Ze Peng, Junyi Sun, Shimei Su, Bing Zhou, Mingliang Xu
   <br>
-   Proceedings of the 2018 ACM Multimedia Conference, p 1328-1336, 2018. CCF-A
+   Proceedings of the 2018 ACM Multimedia Conference, p 1328-1336, 2018.
   <br>
 
 - **An efficient method of crowd aggregation computation in public areas**
   <br>
-  Mingliang Xu, Chunxu Li, **Pei Lv**, Nie Lin, Rui Hou, Bing Zhou
+  Mingliang Xu, Chunxu Li, **Pei Lv**<sup>*</sup>, Nie Lin, Rui Hou, Bing Zhou
   <br>
    IEEE Transactions on Circuits and Systems for Video Technology, Vol.28(10):2814-2825, 2018
   <br>
@@ -90,11 +90,14 @@ I am currently an Associate Professor with School of Information Engineering, Zh
   
 - **A Suggestive Interface for Sketch-based Character Posing**
   <br>
-  	Pei Lv, Pengjie Wang, Weiwei Xu, Jinxiang Chai, Mingmin Zhang, Zhigeng Pan and Mingliang Xu
+  	**Pei Lv**, Pengjie Wang, Weiwei Xu, Jinxiang Chai, Mingmin Zhang, Zhigeng Pan and Mingliang Xu
   <br>
-	Computer Graphics Fo-rum, Vol. 34(7):111-121, 2015.
+	Computer Graphics Forum, Vol. 34(7):111-121, 2015.
   <br>
   
+## Teaching
+- Undergraduate classes: Computer essentials, Frontier of information Science, Multimedia technology
+- Graduate classes: Digital image processing, The technology of graphics and image, Advanced artificial intelligence
 
 ## Services
 
