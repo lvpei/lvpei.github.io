@@ -4,19 +4,29 @@ layout: homepage
 
 ## About Me
 
-I am currently an Associate Professor with School of Information Engineering, Zhengzhou University. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart healthcare. I have published more than 40 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
+I am currently an Associate Professor with School of Information Engineering, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart hearthcare. I have published more than 40 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
 
 
 ## Research Interests
 
-- **Computer Vision:** human behavior analysis, pedestrian trajectory prediction, image quality assessment
-- **Computer Graphics:** crowd simulation, character animation 
+- **Computer Vision:** human pose estimation, action recognition, object detection, image quality assessment,
+- **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
 
+- **[Nov. 2021]** Our paper about personalized image aesthetic assessment is accepted to [IEEE TMM].
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
 ## Selected Publications
+
+- **User-Guided Personalized Image Aesthetic Assessment based on Deep Reinforcement Learning**
+  <br>
+  **Pei Lv**, Jianqi Fan, Xixi Nie, Weiming Dong, Xiaoheng Jiang, Bing Zhou, Mingliang Xu, Changsheng Xu
+  <br>
+  IEEE IEEE Transactions on Multimedia. Accepted, 2021
+  <br>
+[[PDF](https://ieeexplore.ieee.org/document/9627535)] 
+
 
 - **Agent-Based Campus Novel Coronavirus Infection and Control Simulation**
   <br>
@@ -96,10 +106,9 @@ I am currently an Associate Professor with School of Information Engineering, Zh
   <br>
   
 ## Teaching
-- **Undergraduate classes:** Computer essentials, Frontier of information Science, Multimedia technology
-- **Graduate classes:** Digital image processing, The technology of graphics and image, Advanced artificial intelligence
+- Undergraduate classes: Computer essentials, Frontier of information Science, Multimedia technology
+- Graduate classes: Digital image processing, The technology of graphics and image, Advanced artificial intelligence
 
 ## Services
 
-- **Journal Reviewers:** [IEEE T-SMC], [IEEE T-CSS], [IEEE T-CSVT], [PR], [NC] and [TVC].
-
+- Journal Reviewers: [IEEE T-SMC], [IEEE T-CSS], [IEEE T-CSVT], [PR], [NC] and [TVC].
