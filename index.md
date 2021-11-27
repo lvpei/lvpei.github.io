@@ -23,7 +23,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   <br>
   **Pei Lv**, Jianqi Fan, Xixi Nie, Weiming Dong, Xiaoheng Jiang, Bing Zhou, Mingliang Xu, Changsheng Xu
   <br>
-  IEEE IEEE Transactions on Multimedia. Accepted, 2021
+  IEEE Transactions on Multimedia. Accepted, 2021
   <br>
 [[PDF](https://ieeexplore.ieee.org/document/9627535)] 
 
