@@ -18,6 +18,14 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
 ## Selected Publications
+- **Emotional Contagion-Aware Deep Reinforcement Learning for Antagonistic Crowd Simulation**
+  <br>
+  **Pei Lv**, Qingqing Yu, Boya Xu, Chaochao Li, Bingzhou, Mingliang Xu
+  <br>
+  submitted to IEEE Transactions on Affective Computing.
+  <br>
+[[PDF](https://arxiv.org/abs/2105.00854)][[Video](./assets/Demo-TAC-ACSED.mp4)]
+
 
 - **User-Guided Personalized Image Aesthetic Assessment based on Deep Reinforcement Learning**
   <br>
@@ -25,7 +33,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   <br>
   IEEE Transactions on Multimedia. Accepted, 2021
   <br>
-[[PDF](https://ieeexplore.ieee.org/document/9627535)][[Video](./assets/Demo-TAC-ACSED.mp4)]
+[[PDF](https://ieeexplore.ieee.org/document/9627535)]
 
 - **Agent-Based Campus Novel Coronavirus Infection and Control Simulation**
   <br>
