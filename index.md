@@ -25,8 +25,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   <br>
   IEEE Transactions on Multimedia. Accepted, 2021
   <br>
-[[PDF](https://ieeexplore.ieee.org/document/9627535)] 
-
+[[PDF](https://ieeexplore.ieee.org/document/9627535)][[Video](./assets/Demo-TAC-ACSED.mp4)]
 
 - **Agent-Based Campus Novel Coronavirus Infection and Control Simulation**
   <br>
