@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently an Associate Professor with School of Computer and Artificial Intelligence, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart hearthcare. I have published more than 40 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
+I am currently an Associate Professor with School of Computer and Artificial Intelligence, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart hearthcare. I have published more than 50 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
 
 
 ## Research Interests
@@ -14,6 +14,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 
 ## News
 
+- **[July. 2022]** Our paper about trajectory prediction under traffic lights is accepted to [ECCV 2022].
 - **[Nov. 2021]** Our paper about personalized image aesthetic assessment is accepted to [IEEE TMM].
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
@@ -28,6 +29,22 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 
 ## Selected Publications
 
+- **D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights**
+  <br>
+  Yuzhen Zhang, Wentong Wang, Weizhi Guo, **Pei Lv**, Mingliang Xu, Wei Chen, Dinesh Manocha.
+  <br>
+  ECCV 2022.
+  <br>
+  [[Code]()][[Dataset]()]
+
+- **Probability Trajectory: One New Movement Description for Trajectory Prediction**
+  <br>
+  **Pei Lv**, Hui Wei, Tianxin Gu, Yuzhen Zhang, Xiaoheng Jiang, Bing Zhou, Mingliang Xu. 
+  <br>
+  Computational Visual Media, Vol.8(2): 213-224, 2022.
+  <br>
+
+
 - **User-Guided Personalized Image Aesthetic Assessment based on Deep Reinforcement Learning**
   <br>
   **Pei Lv**, Jianqi Fan, Xixi Nie, Weiming Dong, Xiaoheng Jiang, Bing Zhou, Mingliang Xu, Changsheng Xu
@@ -35,6 +52,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   IEEE Transactions on Multimedia. Accepted, 2021
   <br>
 [[PDF](https://ieeexplore.ieee.org/document/9627535)]
+
 
 - **Agent-Based Campus Novel Coronavirus Infection and Control Simulation**
   <br>
@@ -44,6 +62,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   <br>
 [[PDF](https://arxiv.org/abs/2102.10971)] 
   
+
 - **Crowd Behavior Simulation with Emotional Contagion in Unexpected Multi-hazard Situations**
   <br>
   Mingliang Xu, Xiaozheng Xie, **Pei Lv**<sup>*</sup>, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
@@ -91,6 +110,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
    Proceedings of the 2018 ACM Multimedia Conference, p 1328-1336, 2018.
   <br>
 
+
 - **An efficient method of crowd aggregation computation in public areas**
   <br>
   Mingliang Xu, Chunxu Li, **Pei Lv**<sup>*</sup>, Nie Lin, Rui Hou, Bing Zhou
@@ -106,6 +126,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 	IEEE Transactions on Image Processing, Vol. 26(12): 5811-5824, 2017.
   <br>
   
+
 - **A Suggestive Interface for Sketch-based Character Posing**
   <br>
   	**Pei Lv**, Pengjie Wang, Weiwei Xu, Jinxiang Chai, Mingmin Zhang, Zhigeng Pan and Mingliang Xu
@@ -119,4 +140,4 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 
 ## Services
 
-- Journal Reviewers: [IEEE T-SMC], [IEEE T-CSS], [IEEE T-CSVT], [PR], [NC] and [TVC].
+- Journal Reviewers: [IEEE T-SMC], [IEEE T-CSVT], [IEEE T-ITS], [IEEE T-CSS], [PR], [NC] and [TVC].
