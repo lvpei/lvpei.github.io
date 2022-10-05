@@ -19,11 +19,20 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
 ## Preprint
+
+- **TraInterSim: Adaptive and Planning-Aware Hybrid-Driven Traffic Intersection Simulation**
+  <br>
+  **Pei Lv**, Xinming Pei, Xinyu Ren, Yuzhen Zhang, Chaochao Li, Mingliang Xu
+  <br>
+  submitted to IEEE Transactions on Visualization and Computer Graphics. 
+  <br>
+[[PDF](https://arxiv.org/abs/2105.00854)][[Video](./assets/Traintersim-Demo.mp4)]
+ 
 - **Emotional Contagion-Aware Deep Reinforcement Learning for Antagonistic Crowd Simulation**
   <br>
   **Pei Lv**, Qingqing Yu, Boya Xu, Chaochao Li, Bingzhou, Mingliang Xu
   <br>
-  submitted to IEEE Transactions on Affective Computing.
+  submitted to IEEE Transactions on Affective Computing (Major Revision). 
   <br>
 [[PDF](https://arxiv.org/abs/2105.00854)][[Video](./assets/Demo-TAC-ACSED.mp4)]
 
@@ -35,7 +44,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   <br>
   ECCV 2022.
   <br>
-  [[Code]()][[Dataset]()]
+  [[Code](https://github.com/VTP-TL/D2-TPred)][[Dataset](https://github.com/VTP-TL/D2-TPred)]
 
 - **Probability Trajectory: One New Movement Description for Trajectory Prediction**
   <br>
