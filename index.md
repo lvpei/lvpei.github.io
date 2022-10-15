@@ -14,6 +14,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 
 ## News
 
+- **[Oct. 2022]** Our paper about weakly supervised object detection is accepted to [TIP 2022].
 - **[July. 2022]** Our paper about trajectory prediction under traffic lights is accepted to [ECCV 2022].
 - **[Nov. 2021]** Our paper about personalized image aesthetic assessment is accepted to [IEEE TMM].
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
@@ -37,6 +38,13 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 [[PDF](https://arxiv.org/abs/2105.00854)][[Video](./assets/Demo-TAC-ACSED.mp4)]
 
 ## Selected Publications
+
+- **Contrastive Proposal Extension with LSTM Network for Weakly Supervised Object Detection**
+  <br>
+  **Pei Lv**, Suqi Hu, Tianran Hao.
+  <br>
+  IEEE Transactions on Image Processing, Accepted, 2022.
+  <br>
 
 - **D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights**
   <br>
