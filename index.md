@@ -13,7 +13,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
-- 
+ 
 - **[Nov. 2022]** Our paper about antagonistic crowd simulation is accepted to [TAC 2022].
 - **[Oct. 2022]** Our paper about weakly supervised object detection is accepted to [TIP 2022].
 - **[July. 2022]** Our paper about trajectory prediction under traffic lights is accepted to [ECCV 2022].
