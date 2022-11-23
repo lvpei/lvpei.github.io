@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently an Associate Professor with School of Computer and Artificial Intelligence, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, computer graphics and smart hearthcare. I have published more than 50 papers in important academic journals such as IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, IJCAI, ACM MM et al.
+I am currently an Associate Professor with School of Computer and Artificial Intelligence, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, virtual reality and exoskeleton robots. I have published more than 50 papers in important academic journals such as IEEE TIP, IEEE TNNLS, IEEE T-CYB, IEEE TAC, Pattern Recognition, Computer Graphics Forum, and important international academic conferences including CVPR, ECCV, IJCAI, ACM MM et al.
 
 
 ## Research Interests
@@ -13,7 +13,8 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
-
+- 
+- **[Nov. 2022]** Our paper about antagonistic crowd simulation is accepted to [TAC 2022].
 - **[Oct. 2022]** Our paper about weakly supervised object detection is accepted to [TIP 2022].
 - **[July. 2022]** Our paper about trajectory prediction under traffic lights is accepted to [ECCV 2022].
 - **[Nov. 2021]** Our paper about personalized image aesthetic assessment is accepted to [IEEE TMM].
@@ -29,15 +30,16 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   <br>
 [[PDF](https://arxiv.org/abs/2105.00854)][[Video](./assets/Traintersim-Demo.mp4)]
  
+
+## Selected Publications
+
 - **Emotional Contagion-Aware Deep Reinforcement Learning for Antagonistic Crowd Simulation**
   <br>
   **Pei Lv**, Qingqing Yu, Boya Xu, Chaochao Li, Bingzhou, Mingliang Xu
   <br>
-  submitted to IEEE Transactions on Affective Computing (Major Revision). 
+  IEEE Transactions on Affective Computing, Accepted, 2022. 
   <br>
 [[PDF](https://arxiv.org/abs/2105.00854)][[Video](./assets/Demo-TAC-ACSED.mp4)]
-
-## Selected Publications
 
 - **Contrastive Proposal Extension with LSTM Network for Weakly Supervised Object Detection**
   <br>
