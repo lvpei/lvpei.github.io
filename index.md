@@ -45,7 +45,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   <br>
   **Pei Lv**, Suqi Hu, Tianran Hao.
   <br>
-  IEEE Transactions on Image Processing, Accepted, 2022.
+  IEEE Transactions on Image Processing, Vol(31): 6879-6892, 2022.
   <br>
 
 - **D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights**
