@@ -36,7 +36,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 
 - **Interactive Ship Cabin Layout Optimization**
   <br>
-  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**, Bing Zhou, Mingliang Xu
+  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**<sup>*</sup>, Bing Zhou, Mingliang Xu
   <br>
   Ocean Engineering, Accepted, 2023. 
   <br>
