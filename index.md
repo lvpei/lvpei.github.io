@@ -13,9 +13,10 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
- 
-- **[Nov. 2022]** Our paper about antagonistic crowd simulation is accepted to [TAC 2022].
-- **[Oct. 2022]** Our paper about weakly supervised object detection is accepted to [TIP 2022].
+
+- **[Jan. 2023]** Our paper about ship layout optimization is accepted to [Ocean Engineering]. 
+- **[Nov. 2022]** Our paper about antagonistic crowd simulation is accepted to [IEEE TAC].
+- **[Oct. 2022]** Our paper about weakly supervised object detection is accepted to [IEEE TIP].
 - **[July. 2022]** Our paper about trajectory prediction under traffic lights is accepted to [ECCV 2022].
 - **[Nov. 2021]** Our paper about personalized image aesthetic assessment is accepted to [IEEE TMM].
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
@@ -32,6 +33,13 @@ I am currently an Associate Professor with School of Computer and Artificial Int
  
 
 ## Selected Publications
+
+- **Interactive Ship Cabin Layout Optimization**
+  <br>
+  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**, Bing Zhou, Mingliang Xu
+  <br>
+  Ocean Engineering, Accepted, 2023. 
+  <br>
 
 - **Emotional Contagion-Aware Deep Reinforcement Learning for Antagonistic Crowd Simulation**
   <br>
