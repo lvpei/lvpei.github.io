@@ -14,6 +14,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 
 ## News
 
+- **[Feb. 2023]** Our paper about trajectory predction is accepted to [IEEE TNNLS]. 
 - **[Jan. 2023]** Our paper about ship layout optimization is accepted to [Ocean Engineering]. 
 - **[Nov. 2022]** Our paper about antagonistic crowd simulation is accepted to [IEEE TAC].
 - **[Oct. 2022]** Our paper about weakly supervised object detection is accepted to [IEEE TIP].
@@ -34,9 +35,16 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 
 ## Selected Publications
 
+- **SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction**
+  <br>
+  **Pei Lv**, Wentong Wang, Yunxin Wang, Yuzhen Zhang, Mingliang Xu*, Changsheng Xu
+  <br>
+  IEEE Transactions on Neural Networks and Learning System, Accepted, 2023. 
+  <br>
+
 - **Interactive Ship Cabin Layout Optimization**
   <br>
-  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**<sup>*</sup>, Bing Zhou, Mingliang Xu
+  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**, Bing Zhou, Mingliang Xu
   <br>
   Ocean Engineering, Accepted, 2023. 
   <br>
