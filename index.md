@@ -30,7 +30,8 @@ I am currently an Associate Professor with School of Computer and Artificial Int
   <br>
   submitted to IEEE Transactions on Visualization and Computer Graphics. 
   <br>
-[[PDF](https://arxiv.org/abs/2105.00854)][[Video](./assets/Traintersim-Demo.mp4)]
+[[PDF](https://arxiv.org/abs/2210.08118)][[Video_Part1](./assets/TExtended_Part1.mp4)]
+[[Video_Part2](./assets/TExtended_Part2.mp4)][[Video_Part3](./assets/TExtended_Part3.mp4)]
  
 
 ## Selected Publications
