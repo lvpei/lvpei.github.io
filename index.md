@@ -13,7 +13,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
-
+- **[Apr. 2023]** Our paper about heterogeneous trajectory predction is accepted to [IEEE T-ITS]. 
 - **[Feb. 2023]** Our paper about trajectory predction is accepted to [IEEE TNNLS]. 
 - **[Jan. 2023]** Our paper about ship layout optimization is accepted to [Ocean Engineering]. 
 - **[Nov. 2022]** Our paper about antagonistic crowd simulation is accepted to [IEEE TAC].
@@ -35,6 +35,13 @@ I am currently an Associate Professor with School of Computer and Artificial Int
  
 
 ## Selected Publications
+
+- **BIP-Tree: Tree Variant with Behavioral Intention Perception for Heterogeneous Trajectory Prediction**
+  <br>
+  Yuzhen Zhang, Weizhi Guo, Junning Su, **Pei Lv**, Mingliang Xu.
+  <br>
+  IEEE Transactions on Intelligent Transportation Systems, Accepted, 2023.
+  <br>
 
 - **SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction**
   <br>
@@ -176,4 +183,5 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 
 ## Services
 
-- Journal Reviewers: [IEEE T-SMC], [IEEE T-CSVT], [IEEE T-ITS], [IEEE T-CSS], [PR], [NC] and [TVC].
+- Journal Reviewers: [IEEE T-SMC], [IEEE T-CSVT], [IEEE T-ITS], [IEEE T-CSS], [PR], and [NC].
+- Conference Reviewers: [IJCAI]
