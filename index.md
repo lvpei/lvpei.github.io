@@ -13,6 +13,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
+- **[Aug. 2023]** Our paper about traffic simulation at the intersection is accepted to [IEEE TVCG].
 - **[Apr. 2023]** Our paper about heterogeneous trajectory predction is accepted to [IEEE T-ITS]. 
 - **[Feb. 2023]** Our paper about trajectory predction is accepted to [IEEE TNNLS]. 
 - **[Jan. 2023]** Our paper about ship layout optimization is accepted to [Ocean Engineering]. 
@@ -22,19 +23,16 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **[Nov. 2021]** Our paper about personalized image aesthetic assessment is accepted to [IEEE TMM].
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
-## Preprint
+## Selected Publications
 
 - **TraInterSim: Adaptive and Planning-Aware Hybrid-Driven Traffic Intersection Simulation**
   <br>
   **Pei Lv**, Xinming Pei, Xinyu Ren, Yuzhen Zhang, Chaochao Li, Mingliang Xu
   <br>
-  submitted to IEEE Transactions on Visualization and Computer Graphics. 
+  IEEE Transactions on Visualization and Computer Graphics, Accepted, 2023. 
   <br>
 [[PDF](https://arxiv.org/abs/2210.08118)][[Video_Part1](./assets/Extended_Part1.mp4)]
 [[Video_Part2](./assets/Extended_Part2.mp4)][[Video_Part3](./assets/Extended_Part3.mp4)]
- 
-
-## Selected Publications
 
 - **BIP-Tree: Tree Variant with Behavioral Intention Perception for Heterogeneous Trajectory Prediction**
   <br>
