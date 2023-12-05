@@ -13,6 +13,7 @@ I am currently an Associate Professor with School of Computer and Artificial Int
 - **Computer Graphics:** crowd simulation, crowd behavior analysis
 
 ## News
+- **[Dec. 2023]** Two papers about Long-Tail Object Detection and Small Object Detection respectively are accepted to [CVM 2024].
 - **[Aug. 2023]** Our paper about traffic simulation at the intersection is accepted to [IEEE TVCG].
 - **[Apr. 2023]** Our paper about heterogeneous trajectory predction is accepted to [IEEE T-ITS]. 
 - **[Feb. 2023]** Our paper about trajectory predction is accepted to [IEEE TNNLS]. 
