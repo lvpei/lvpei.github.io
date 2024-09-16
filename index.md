@@ -4,15 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am currently a Full Professor and Vice Dean with School of Computer and Artificial Intelligence, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, virtual reality and exoskeleton robots. I have published more than 50 papers in important academic journals such as IEEE TIP, IEEE TVCG, IEEE TNNLS, IEEE T-CYB, IEEE TAC, Pattern Recognition, and important international academic conferences including CVPR, ECCV, IJCAI, ACM MM et al.
+I am currently a Full Professor and Vice Dean with School of Computer and Artificial Intelligence, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, virtual reality and exoskeleton robots. I have published more than 60 papers in important academic journals such as IEEE TIP, IEEE TVCG, IEEE TNNLS, IEEE T-CYB, IEEE TAC, Pattern Recognition, and important international academic conferences including CVPR, ECCV, IJCAI, ACM MM et al.
 
 
 ## Research Interests
 
-- **Computer Vision:** human pose estimation, action recognition, object detection, image quality assessment
-- **Computer Graphics:** crowd simulation, crowd behavior analysis
+- **Computer Vision:** human pose estimation, action recognition, small object detection, low-quality image enhancement
+- **Computer Graphics:** crowd simulation, crowd behavior analysis, traffic simulation
 
 ## News
+- **[Sep. 2024]** Our work about traffic simulation is accepted to [IEEE T-ITS].
+- **[Aug. 2024]** Our work about weakly-supervised object localization is accpeted to  [IEEE TIP].
 - **[Dec. 2023]** Two papers about Long-Tail Object Detection and Small Object Detection respectively are accepted to [CVM 2024].
 - **[Aug. 2023]** Our paper about traffic simulation at the intersection is accepted to [IEEE TVCG].
 - **[Apr. 2023]** Our paper about heterogeneous trajectory predction is accepted to [IEEE T-ITS]. 
@@ -25,6 +27,19 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
 ## Selected Publications
+- **S-CVAE: Stacked CVAE for Trajectory Prediction with Incremental Greedy Region**
+  <br>
+  Yuzhen Zhang, Junning Su, Hang Guo, Chaochao Li, **Pei Lv**, Mingliang Xu.
+  <br>
+  IEEE Transactions on Intelligent Transportation Systems, Accepted, 2024.
+  <br>
+
+- **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
+  <br>
+  Pei Lv, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
+  <br>
+  IEEE Transactions on Image Processing, ACCEPT WITH MANDATORY MINOR REVISIONS, 2024.
+  <br>
 
 - **TraInterSim: Adaptive and Planning-Aware Hybrid-Driven Traffic Intersection Simulation**
   <br>
