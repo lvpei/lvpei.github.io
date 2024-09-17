@@ -13,7 +13,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **Computer Graphics:** crowd simulation, crowd behavior analysis, traffic simulation
 
 ## News
-- **[Sep. 2024]** Our work about traffic simulation is accepted to [IEEE T-ITS].
+- **[Sep. 2024]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
 - **[Aug. 2024]** Our work about weakly-supervised object localization is accpeted to  [IEEE TIP].
 - **[Dec. 2023]** Two papers about Long-Tail Object Detection and Small Object Detection respectively are accepted to [CVM 2024].
 - **[Aug. 2023]** Our paper about traffic simulation at the intersection is accepted to [IEEE TVCG].
@@ -36,7 +36,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
   <br>
-  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
+  Pei Lv, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
   <br>
   IEEE Transactions on Image Processing, ACCEPT WITH MANDATORY MINOR REVISIONS, 2024.
   <br>
