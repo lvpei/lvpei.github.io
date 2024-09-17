@@ -36,7 +36,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
   <br>
-  Pei Lv, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
+  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
   <br>
   IEEE Transactions on Image Processing, ACCEPT WITH MANDATORY MINOR REVISIONS, 2024.
   <br>
