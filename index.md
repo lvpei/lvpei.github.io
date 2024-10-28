@@ -32,7 +32,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
   <br>
   Weizhi Guo, Chaochao Li, Kaijiang Li, **Pei Lv**, Mingliang Xu.
   <br>
-  IEEE Transactions on Intelligent Transportation Systems, Accept After Minor Revision, 2024.
+  IEEE Transactions on Intelligent Transportation Systems, Accepted, 2024.
   <br> 
 
 - **S-CVAE: Stacked CVAE for Trajectory Prediction with Incremental Greedy Region**
