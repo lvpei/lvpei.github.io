@@ -13,6 +13,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **Computer Graphics:** crowd simulation, crowd behavior analysis, traffic simulation
 
 ## News
+- **[Oct. 2024]** Our work about monocular 3D lane detection is accepted to [IEEE T-ITS].
 - **[Sep. 2024]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
 - **[Aug. 2024]** Our work about weakly-supervised object localization is accpeted to  [IEEE TIP].
 - **[Dec. 2023]** Two papers about Long-Tail Object Detection and Small Object Detection respectively are accepted to [CVM 2024].
@@ -27,6 +28,13 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
 ## Selected Publications
+- **CaliFree3DLane: Calibration Free Spatio-Temporal BEV Representation for Monocular 3D Lane Detection**
+  <br>
+  Weizhi Guo, Chaochao Li, Kaijiang Li, **Pei Lv**, Mingliang Xu.
+  <br>
+  IEEE Transactions on Intelligent Transportation Systems, Accept After Minor Revision, 2024.
+  <br> 
+
 - **S-CVAE: Stacked CVAE for Trajectory Prediction with Incremental Greedy Region**
   <br>
   Yuzhen Zhang, Junning Su, Hang Guo, Chaochao Li, **Pei Lv**, Mingliang Xu.
