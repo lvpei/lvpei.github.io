@@ -13,6 +13,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **Computer Graphics:** crowd simulation, crowd behavior analysis, traffic simulation
 
 ## News
+- **[Nov. 2024]** Our work about image enhancement is accepted to [IEEE TMM].
 - **[Oct. 2024]** Our work about monocular 3D lane detection is accepted to [IEEE T-ITS].
 - **[Sep. 2024]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
 - **[Aug. 2024]** Our work about weakly-supervised object localization is accpeted to  [IEEE TIP].
@@ -28,6 +29,14 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
 ## Selected Publications
+
+- **TITFormer: Combining Textual Modality and Simulating Infrared Modality Based on Transformer for Image Enhancement**
+  <br>
+  Kaijiang Li, Haining Li, Miduo Cui, Junxin Li, **Pei Lv**, Bing Zhou, Mingliang Xu.
+  <br>
+  IEEE Transactions on Multimedia, Accepted, 2024.
+  <br> 
+ 
 - **CaliFree3DLane: Calibration Free Spatio-Temporal BEV Representation for Monocular 3D Lane Detection**
   <br>
   Weizhi Guo, Chaochao Li, Kaijiang Li, **Pei Lv**, Mingliang Xu.
