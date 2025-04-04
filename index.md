@@ -32,35 +32,35 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
   <br>
-  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
+  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu\*.
   <br>
   IEEE Transactions on Image Processing, Accepted, 2025.
   <br>
 
 - **TITFormer: Combining Textual Modality and Simulating Infrared Modality Based on Transformer for Image Enhancement**
   <br>
-  Kaijiang Li, Haining Li, Miduo Cui, Junxin Li, **Pei Lv**, Bing Zhou, Mingliang Xu.
+  Kaijiang Li, Haining Li, Miduo Cui, Junxin Li, **Pei Lv**\*, Bing Zhou, Mingliang Xu.
   <br>
   IEEE Transactions on Multimedia, Accepted, 2024.
   <br> 
  
 - **CaliFree3DLane: Calibration Free Spatio-Temporal BEV Representation for Monocular 3D Lane Detection**
   <br>
-  Weizhi Guo, Chaochao Li, Kaijiang Li, **Pei Lv**, Mingliang Xu.
+  Weizhi Guo, Chaochao Li, Kaijiang Li, **Pei Lv**\*, Mingliang Xu.
   <br>
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2024.
   <br> 
 
 - **S-CVAE: Stacked CVAE for Trajectory Prediction with Incremental Greedy Region**
   <br>
-  Yuzhen Zhang, Junning Su, Hang Guo, Chaochao Li, **Pei Lv**, Mingliang Xu.
+  Yuzhen Zhang, Junning Su, Hang Guo, Chaochao Li, **Pei Lv**\*, Mingliang Xu.
   <br>
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2024.
   <br>
 
 - **TraInterSim: Adaptive and Planning-Aware Hybrid-Driven Traffic Intersection Simulation**
   <br>
-  **Pei Lv**, Xinming Pei, Xinyu Ren, Yuzhen Zhang, Chaochao Li, Mingliang Xu
+  **Pei Lv**, Xinming Pei, Xinyu Ren, Yuzhen Zhang, Chaochao Li, Mingliang Xu\*.
   <br>
   IEEE Transactions on Visualization and Computer Graphics, Accepted, 2023. 
   <br>
@@ -69,7 +69,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **BIP-Tree: Tree Variant with Behavioral Intention Perception for Heterogeneous Trajectory Prediction**
   <br>
-  Yuzhen Zhang, Weizhi Guo, Junning Su, **Pei Lv**, Mingliang Xu.
+  Yuzhen Zhang, Weizhi Guo, Junning Su, **Pei Lv**\*, Mingliang Xu.
   <br>
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2023.
   <br>
@@ -83,14 +83,14 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Interactive Ship Cabin Layout Optimization**
   <br>
-  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**, Bing Zhou, Mingliang Xu
+  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**\*, Bing Zhou, Mingliang Xu
   <br>
   Ocean Engineering, Accepted, 2023. 
   <br>
 
 - **Emotional Contagion-Aware Deep Reinforcement Learning for Antagonistic Crowd Simulation**
   <br>
-  **Pei Lv**, Qingqing Yu, Boya Xu, Chaochao Li, Bingzhou, Mingliang Xu
+  **Pei Lv**, Qingqing Yu, Boya Xu, Chaochao Li, Bingzhou, Mingliang Xu\*.
   <br>
   IEEE Transactions on Affective Computing, Accepted, 2022. 
   <br>
@@ -105,7 +105,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights**
   <br>
-  Yuzhen Zhang, Wentong Wang, Weizhi Guo, **Pei Lv**, Mingliang Xu, Wei Chen, Dinesh Manocha.
+  Yuzhen Zhang, Wentong Wang, Weizhi Guo, **Pei Lv**\*, Mingliang Xu, Wei Chen, Dinesh Manocha.
   <br>
   ECCV 2022.
   <br>
@@ -113,7 +113,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Probability Trajectory: One New Movement Description for Trajectory Prediction**
   <br>
-  **Pei Lv**, Hui Wei, Tianxin Gu, Yuzhen Zhang, Xiaoheng Jiang, Bing Zhou, Mingliang Xu. 
+  **Pei Lv**, Hui Wei, Tianxin Gu, Yuzhen Zhang, Xiaoheng Jiang, Bing Zhou, Mingliang Xu\*. 
   <br>
   Computational Visual Media, Vol.8(2): 213-224, 2022.
   <br>
@@ -121,7 +121,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **User-Guided Personalized Image Aesthetic Assessment based on Deep Reinforcement Learning**
   <br>
-  **Pei Lv**, Jianqi Fan, Xixi Nie, Weiming Dong, Xiaoheng Jiang, Bing Zhou, Mingliang Xu, Changsheng Xu
+  **Pei Lv**, Jianqi Fan, Xixi Nie, Weiming Dong, Xiaoheng Jiang, Bing Zhou, Mingliang Xu\*, Changsheng Xu
   <br>
   IEEE Transactions on Multimedia. Accepted, 2021
   <br>
@@ -130,7 +130,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Agent-Based Campus Novel Coronavirus Infection and Control Simulation**
   <br>
-  **Pei Lv**, Quan Zhang, Boya Xu, Ran Feng, Chaochao Li, Junxiao Xue, Bing Zhou, Mingliang
+  **Pei Lv**, Quan Zhang, Boya Xu, Ran Feng, Chaochao Li, Junxiao Xue, Bing Zhou, Mingliang Xu\*.
   <br>
   IEEE Transactions on Computational Social Systems. Accepted, 2021
   <br>
@@ -139,7 +139,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Crowd Behavior Simulation with Emotional Contagion in Unexpected Multi-hazard Situations**
   <br>
-  Mingliang Xu, Xiaozheng Xie, **Pei Lv**<sup>*</sup>, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
+  Mingliang Xu, Xiaozheng Xie, **Pei Lv**\*, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
   <br>
   IEEE Transactions on Systems, Man, and Cybernetics: Systems, Vol.51(3): 1567-1581, 2021.
   <br>
@@ -163,7 +163,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **ACSEE: Antagonistic Crowd Simulation Model with Emotional Contagion and Evolutionary Game Theory**
   <br>
-  Chaochao Li, **Pei Lv**, Dinesh Manocha, Hua Wang, Yafei Li, Bing Zhou and Mingliang Xu
+  Chaochao Li, **Pei Lv**, Dinesh Manocha, Hua Wang, Yafei Li, Bing Zhou and Mingliang Xu\*
   <br>
    IEEE Transactions on Affective Computing, 2019
   <br>
@@ -195,7 +195,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Learning-Based Shadow Recognition and Removal From Monochromatic Natural Images**
   <br>
-  	Mingliang Xu, Jiejie Zhu, **Pei Lv**, Bing Zhou, Marshall F. Tappen, Rongrong Ji
+  	Mingliang Xu, Jiejie Zhu, **Pei Lv**, Bing Zhou, Marshall F. Tappen, Rongrong Ji\*
   <br>
 	IEEE Transactions on Image Processing, Vol. 26(12): 5811-5824, 2017.
   <br>
@@ -209,10 +209,11 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
   <br>
   
 ## Teaching
-- Undergraduate classes: Computer essentials, Frontier of information Science, Multimedia technology
-- Graduate classes: Digital image processing, The technology of graphics and image, Advanced artificial intelligence
+- Undergraduate classes: Computer essentials, Frontier of information Science, Multimedia technology, Computer graphics
+- Graduate classes: The technology of graphics and image, Advanced artificial intelligence
 
 ## Services
 
-- Journal Reviewers: [IEEE T-SMC], [IEEE T-CSVT], [IEEE T-ITS], [IEEE T-CSS], [PR], and [NC].
-- Conference Reviewers: [IJCAI]
+- Journal Reviewers: IEEE TIP, IEEE TVCG, IEEE TNNLS, IEEE T-SMC, IEEE T-CSVT, IEEE T-ITS, et al.
+- Conference Reviewers: CVPR, ICCV, ECCV, IJCAI et al.
+ 
