@@ -13,10 +13,10 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **Computer Graphics:** crowd simulation, crowd behavior analysis, traffic simulation
 
 ## News
+- **[Mar. 2025]** Our work about weakly-supervised object localization is accpeted to [IEEE TIP].
 - **[Nov. 2024]** Our work about image enhancement is accepted to [IEEE TMM].
 - **[Oct. 2024]** Our work about monocular 3D lane detection is accepted to [IEEE T-ITS].
 - **[Sep. 2024]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
-- **[Aug. 2024]** Our work about weakly-supervised object localization is accpeted to  [IEEE TIP].
 - **[Dec. 2023]** Two papers about Long-Tail Object Detection and Small Object Detection respectively are accepted to [CVM 2024].
 - **[Aug. 2023]** Our paper about traffic simulation at the intersection is accepted to [IEEE TVCG].
 - **[Apr. 2023]** Our paper about heterogeneous trajectory predction is accepted to [IEEE T-ITS]. 
@@ -29,6 +29,13 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
 ## Selected Publications
+
+- **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
+  <br>
+  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
+  <br>
+  IEEE Transactions on Image Processing, Accepted, 2025.
+  <br>
 
 - **TITFormer: Combining Textual Modality and Simulating Infrared Modality Based on Transformer for Image Enhancement**
   <br>
@@ -49,13 +56,6 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
   Yuzhen Zhang, Junning Su, Hang Guo, Chaochao Li, **Pei Lv**, Mingliang Xu.
   <br>
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2024.
-  <br>
-
-- **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
-  <br>
-  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
-  <br>
-  IEEE Transactions on Image Processing, ACCEPT WITH MANDATORY MINOR REVISIONS, 2024.
   <br>
 
 - **TraInterSim: Adaptive and Planning-Aware Hybrid-Driven Traffic Intersection Simulation**
