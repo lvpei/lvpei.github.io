@@ -13,10 +13,13 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **Computer Graphics:** crowd simulation, crowd behavior analysis, traffic simulation
 
 ## News
-- **[Mar. 2025]** Our work about weakly-supervised object localization is accpeted to [IEEE TIP].
+- **[May. 2025]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
+- **[Apr. 2025]** Our work about trajectory prediction is accepted to [IJCAI 2025].
+- **[Mar. 2025]** Our work about weakly supervised object localization is accepted to [IEEE TIP].
 - **[Nov. 2024]** Our work about image enhancement is accepted to [IEEE TMM].
 - **[Oct. 2024]** Our work about monocular 3D lane detection is accepted to [IEEE T-ITS].
 - **[Sep. 2024]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
+- **[Aug. 2024]** Our work about weakly-supervised object localization is accpeted to  [IEEE TIP].
 - **[Dec. 2023]** Two papers about Long-Tail Object Detection and Small Object Detection respectively are accepted to [CVM 2024].
 - **[Aug. 2023]** Our paper about traffic simulation at the intersection is accepted to [IEEE TVCG].
 - **[Apr. 2023]** Our paper about heterogeneous trajectory predction is accepted to [IEEE T-ITS]. 
@@ -28,39 +31,53 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **[Nov. 2021]** Our paper about personalized image aesthetic assessment is accepted to [IEEE TMM].
 - **[Sep. 2021]** Our paper about novel coronavirus infection and control simulation is accepted to [IEEE TCSS].
 
-## Selected Publications
+## Selected journal papers
 
-- **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
+- **Local Cross-Patch Activation From Multi-Direction for Weakly Supervised Object Localization**
   <br>
-  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu\*.
+  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
   <br>
-  IEEE Transactions on Image Processing, Accepted, 2025.
+  IEEE Transactions on Image Processing, Vol.34:2213-2227, 2025.
+  <br> 
+
+- **Remember and Recall: Associative-Memory-based Trajectory Prediction**
   <br>
+  Hang Guo, Yuzhen Zhang, Tianci Gao, Junning Su, Pei Lv, and Mingliang Xu.
+  <br>
+  IEEE Transactions on Intelligent Transportation Systems, Accepted, 2025.
+  <br> 
 
 - **TITFormer: Combining Textual Modality and Simulating Infrared Modality Based on Transformer for Image Enhancement**
   <br>
-  Kaijiang Li, Haining Li, Miduo Cui, Junxin Li, **Pei Lv**\*, Bing Zhou, Mingliang Xu.
+  Kaijiang Li, Haining Li, Miduo Cui, Junxin Li, **Pei Lv**, Bing Zhou, Mingliang Xu.
   <br>
   IEEE Transactions on Multimedia, Accepted, 2024.
   <br> 
  
 - **CaliFree3DLane: Calibration Free Spatio-Temporal BEV Representation for Monocular 3D Lane Detection**
   <br>
-  Weizhi Guo, Chaochao Li, Kaijiang Li, **Pei Lv**\*, Mingliang Xu.
+  Weizhi Guo, Chaochao Li, Kaijiang Li, **Pei Lv**, Mingliang Xu.
   <br>
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2024.
   <br> 
 
 - **S-CVAE: Stacked CVAE for Trajectory Prediction with Incremental Greedy Region**
   <br>
-  Yuzhen Zhang, Junning Su, Hang Guo, Chaochao Li, **Pei Lv**\*, Mingliang Xu.
+  Yuzhen Zhang, Junning Su, Hang Guo, Chaochao Li, **Pei Lv**, Mingliang Xu.
   <br>
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2024.
   <br>
 
+- **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
+  <br>
+  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
+  <br>
+  IEEE Transactions on Image Processing, ACCEPT WITH MANDATORY MINOR REVISIONS, 2024.
+  <br>
+
 - **TraInterSim: Adaptive and Planning-Aware Hybrid-Driven Traffic Intersection Simulation**
   <br>
-  **Pei Lv**, Xinming Pei, Xinyu Ren, Yuzhen Zhang, Chaochao Li, Mingliang Xu\*.
+  **Pei Lv**, Xinming Pei, Xinyu Ren, Yuzhen Zhang, Chaochao Li, Mingliang Xu
   <br>
   IEEE Transactions on Visualization and Computer Graphics, Accepted, 2023. 
   <br>
@@ -69,7 +86,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **BIP-Tree: Tree Variant with Behavioral Intention Perception for Heterogeneous Trajectory Prediction**
   <br>
-  Yuzhen Zhang, Weizhi Guo, Junning Su, **Pei Lv**\*, Mingliang Xu.
+  Yuzhen Zhang, Weizhi Guo, Junning Su, **Pei Lv**, Mingliang Xu.
   <br>
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2023.
   <br>
@@ -83,14 +100,14 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Interactive Ship Cabin Layout Optimization**
   <br>
-  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**\*, Bing Zhou, Mingliang Xu
+  Zhan Wang, Xiaoqian Yang, Yuhao Zheng, Weichao Chen, **Pei Lv**, Bing Zhou, Mingliang Xu
   <br>
   Ocean Engineering, Accepted, 2023. 
   <br>
 
 - **Emotional Contagion-Aware Deep Reinforcement Learning for Antagonistic Crowd Simulation**
   <br>
-  **Pei Lv**, Qingqing Yu, Boya Xu, Chaochao Li, Bingzhou, Mingliang Xu\*.
+  **Pei Lv**, Qingqing Yu, Boya Xu, Chaochao Li, Bingzhou, Mingliang Xu
   <br>
   IEEE Transactions on Affective Computing, Accepted, 2022. 
   <br>
@@ -103,17 +120,10 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
   IEEE Transactions on Image Processing, Vol(31): 6879-6892, 2022.
   <br>
 
-- **D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights**
-  <br>
-  Yuzhen Zhang, Wentong Wang, Weizhi Guo, **Pei Lv**\*, Mingliang Xu, Wei Chen, Dinesh Manocha.
-  <br>
-  ECCV 2022.
-  <br>
-  [[Code](https://github.com/VTP-TL/D2-TPred)][[Dataset](https://github.com/VTP-TL/D2-TPred)]
-
+  
 - **Probability Trajectory: One New Movement Description for Trajectory Prediction**
   <br>
-  **Pei Lv**, Hui Wei, Tianxin Gu, Yuzhen Zhang, Xiaoheng Jiang, Bing Zhou, Mingliang Xu\*. 
+  **Pei Lv**, Hui Wei, Tianxin Gu, Yuzhen Zhang, Xiaoheng Jiang, Bing Zhou, Mingliang Xu. 
   <br>
   Computational Visual Media, Vol.8(2): 213-224, 2022.
   <br>
@@ -121,7 +131,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **User-Guided Personalized Image Aesthetic Assessment based on Deep Reinforcement Learning**
   <br>
-  **Pei Lv**, Jianqi Fan, Xixi Nie, Weiming Dong, Xiaoheng Jiang, Bing Zhou, Mingliang Xu\*, Changsheng Xu
+  **Pei Lv**, Jianqi Fan, Xixi Nie, Weiming Dong, Xiaoheng Jiang, Bing Zhou, Mingliang Xu, Changsheng Xu
   <br>
   IEEE Transactions on Multimedia. Accepted, 2021
   <br>
@@ -130,7 +140,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Agent-Based Campus Novel Coronavirus Infection and Control Simulation**
   <br>
-  **Pei Lv**, Quan Zhang, Boya Xu, Ran Feng, Chaochao Li, Junxiao Xue, Bing Zhou, Mingliang Xu\*.
+  **Pei Lv**, Quan Zhang, Boya Xu, Ran Feng, Chaochao Li, Junxiao Xue, Bing Zhou, Mingliang
   <br>
   IEEE Transactions on Computational Social Systems. Accepted, 2021
   <br>
@@ -139,7 +149,7 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 
 - **Crowd Behavior Simulation with Emotional Contagion in Unexpected Multi-hazard Situations**
   <br>
-  Mingliang Xu, Xiaozheng Xie, **Pei Lv**\*, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
+  Mingliang Xu, Xiaozheng Xie, **Pei Lv**<sup>*</sup>, Jianwei Niu, Hua Wang Chaochao Li, Ruijie Zhu, Zhigang Deng and Bing Zhou
   <br>
   IEEE Transactions on Systems, Man, and Cybernetics: Systems, Vol.51(3): 1567-1581, 2021.
   <br>
@@ -152,22 +162,12 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
   IEEE Transactions on Intelligent Transportation System, 2020
   <br>
 
-
-- **Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation**
-  <br>
-  Shengyuan Liu, **Pei Lv**<sup>*</sup>, Jie Fu, Yuzhen Zhang, Junjing Cheng, Wanqing Li, Bing Zhou, Mingliang Xu
-  <br>
-   IJCAI-PRICAI 2020.
-  <br>
-
-
 - **ACSEE: Antagonistic Crowd Simulation Model with Emotional Contagion and Evolutionary Game Theory**
   <br>
-  Chaochao Li, **Pei Lv**, Dinesh Manocha, Hua Wang, Yafei Li, Bing Zhou and Mingliang Xu\*
+  Chaochao Li, **Pei Lv**, Dinesh Manocha, Hua Wang, Yafei Li, Bing Zhou and Mingliang Xu
   <br>
    IEEE Transactions on Affective Computing, 2019
   <br>
-
 
 - **Crowd Behavior Evolution with Emotional Contagion in Political Rallies**
   <br>
@@ -176,6 +176,50 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
    IEEE Transactions on Computational Social Systems, Vol.6(2):377-386, 2019.
   <br>
 
+- **An efficient method of crowd aggregation computation in public areas**
+  <br>
+  Mingliang Xu, Chunxu Li, **Pei Lv**<sup>*</sup>, Nie Lin, Rui Hou, Bing Zhou
+  <br>
+   IEEE Transactions on Circuits and Systems for Video Technology, Vol.28(10):2814-2825, 2018
+  <br>
+
+- **Learning-Based Shadow Recognition and Removal From Monochromatic Natural Images**
+  <br>
+  	Mingliang Xu, Jiejie Zhu, **Pei Lv**, Bing Zhou, Marshall F. Tappen, Rongrong Ji
+  <br>
+	IEEE Transactions on Image Processing, Vol. 26(12): 5811-5824, 2017.
+  <br>
+
+- **A Suggestive Interface for Sketch-based Character Posing**
+  <br>
+  	**Pei Lv**, Pengjie Wang, Weiwei Xu, Jinxiang Chai, Mingmin Zhang, Zhigeng Pan and Mingliang Xu
+  <br>
+	Computer Graphics Forum, Vol. 34(7):111-121, 2015.
+  <br>
+
+## Selected conference papers
+
+- **SocialMP: Learning Social Aware Motion Patterns via Additive Fusion for Pedestrian Trajectory Prediction**
+  <br>
+  TianCi Gao, Yuzhen Zhang, Hang Guo, **Pei Lv**<sup>*</sup>
+  <br>
+   IJCAI-PRICAI 2025.
+  <br>
+
+- **D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights**
+  <br>
+  Yuzhen Zhang, Wentong Wang, Weizhi Guo, **Pei Lv**, Mingliang Xu, Wei Chen, Dinesh Manocha.
+  <br>
+  ECCV 2022.
+  <br>
+  [[Code](https://github.com/VTP-TL/D2-TPred)][[Dataset](https://github.com/VTP-TL/D2-TPred)]
+
+- **Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation**
+  <br>
+  Shengyuan Liu, **Pei Lv**<sup>*</sup>, Jie Fu, Yuzhen Zhang, Junjing Cheng, Wanqing Li, Bing Zhou, Mingliang Xu
+  <br>
+   IJCAI-PRICAI 2020.
+  <br>
 
 - **USAR: an interactive user-specific aesthetic ranking framework for images**
   <br>
@@ -184,36 +228,11 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
    Proceedings of the 2018 ACM Multimedia Conference, p 1328-1336, 2018.
   <br>
 
-
-- **An efficient method of crowd aggregation computation in public areas**
-  <br>
-  Mingliang Xu, Chunxu Li, **Pei Lv**<sup>*</sup>, Nie Lin, Rui Hou, Bing Zhou
-  <br>
-   IEEE Transactions on Circuits and Systems for Video Technology, Vol.28(10):2814-2825, 2018
-  <br>
-
-
-- **Learning-Based Shadow Recognition and Removal From Monochromatic Natural Images**
-  <br>
-  	Mingliang Xu, Jiejie Zhu, **Pei Lv**, Bing Zhou, Marshall F. Tappen, Rongrong Ji\*
-  <br>
-	IEEE Transactions on Image Processing, Vol. 26(12): 5811-5824, 2017.
-  <br>
-  
-
-- **A Suggestive Interface for Sketch-based Character Posing**
-  <br>
-  	**Pei Lv**, Pengjie Wang, Weiwei Xu, Jinxiang Chai, Mingmin Zhang, Zhigeng Pan and Mingliang Xu
-  <br>
-	Computer Graphics Forum, Vol. 34(7):111-121, 2015.
-  <br>
-  
 ## Teaching
 - Undergraduate classes: Computer essentials, Frontier of information Science, Multimedia technology, Computer graphics
-- Graduate classes: The technology of graphics and image, Advanced artificial intelligence
+- Graduate classes: Digital image processing, The technology of graphics and image, Advanced artificial intelligence
 
 ## Services
 
-- Journal Reviewers: IEEE TIP, IEEE TVCG, IEEE TNNLS, IEEE T-SMC, IEEE T-CSVT, IEEE T-ITS, et al.
-- Conference Reviewers: CVPR, ICCV, ECCV, IJCAI et al.
- 
+- Journal Reviewers: [IEEE TVCG], [IEEE TIP], [IEEE T-SMC], [IEEE T-CSVT], [IEEE T-ITS], et al.
+- Conference Reviewers: [CVPR],[ICCV],[ECCV],[NeurIPS],[AAAI], [IJCAI], et al.
