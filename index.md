@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Full Professor and Vice Dean with School of Computer and Artificial Intelligence, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, virtual reality and exoskeleton robots. I have published more than 60 papers in important academic journals such as IEEE TIP, IEEE TVCG, IEEE TNNLS, IEEE T-CYB, IEEE TAC, Pattern Recognition, and important international academic conferences including CVPR, ECCV, IJCAI, ACM MM et al.
+I am currently a Full Professor and Vice Dean with School of Computer and Artificial Intelligence, Zhengzhou Univerisity. I received Ph.D degree in State Key Lab of Computer Aided Design and Computer Graphics at Zhejiang University in June 2013. I worked as a research engineer in the Media Technology Laboratory of HUAWEI TECHNOLOGIES CO., LTD. from July 2013 to December 2014. My research interests mainly focus on artificial intelligence, virtual reality and robots. I have published more than 60 papers in important academic journals such as IEEE TIP, IEEE TVCG, IEEE TNNLS, IEEE T-CYB, IEEE TAC, Pattern Recognition, and important international academic conferences including CVPR, ECCV, IJCAI, ACM MM et al.
 
 
 ## Research Interests
@@ -13,12 +13,15 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
 - **Computer Graphics:** crowd simulation, crowd behavior analysis, traffic simulation
 
 ## News
-- **[May. 2025]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
-- **[Apr. 2025]** Our work about trajectory prediction is accepted to [IJCAI 2025].
+- **[Dec. 2025]** Our work about dynamic task allocation is accepted to [AAMAS 2026].
 - **[Mar. 2025]** Our work about weakly supervised object localization is accepted to [IEEE TIP].
+- **[May. 2025]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
+- **[Apr. 2025]** Our work about ship deck layout generation is accepted to [SCIS].
+- **[Apr. 2025]** Our work about trajectory prediction is accepted to [IJCAI 2025].
 - **[Nov. 2024]** Our work about image enhancement is accepted to [IEEE TMM].
 - **[Oct. 2024]** Our work about monocular 3D lane detection is accepted to [IEEE T-ITS].
 - **[Sep. 2024]** Our work about trajectory prediction is accepted to [IEEE T-ITS].
+- **[Aug. 2024]** Our work about weakly-supervised object localization is accpeted to  [IEEE TIP].
 - **[Dec. 2023]** Two papers about Long-Tail Object Detection and Small Object Detection respectively are accepted to [CVM 2024].
 - **[Aug. 2023]** Our paper about traffic simulation at the intersection is accepted to [IEEE TVCG].
 - **[Apr. 2023]** Our paper about heterogeneous trajectory predction is accepted to [IEEE T-ITS]. 
@@ -46,6 +49,13 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2025.
   <br> 
 
+- **Navigating complexity: a topology-function interpolation approach for ship deck layout generation**
+  <br>
+  Yuhao ZHENG, Junhao WANG, Yucheng SHI, Zongpu LI, **Pei LV**, Mingliang XU.
+  <br>
+  SCIENCE CHINA Information Sciences, Accepted, 2025.
+  <br> 
+
 - **TITFormer: Combining Textual Modality and Simulating Infrared Modality Based on Transformer for Image Enhancement**
   <br>
   Kaijiang Li, Haining Li, Miduo Cui, Junxin Li, **Pei Lv**, Bing Zhou, Mingliang Xu.
@@ -65,6 +75,13 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
   Yuzhen Zhang, Junning Su, Hang Guo, Chaochao Li, **Pei Lv**, Mingliang Xu.
   <br>
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2024.
+  <br>
+
+- **Local Cross-Patch Activation from Multi-Direction for Weakly Supervised Object Localization**
+  <br>
+  **Pei Lv**, Junying Ren, Genwang Han, Jiwen Lu, Mingliang Xu.
+  <br>
+  IEEE Transactions on Image Processing, ACCEPT WITH MANDATORY MINOR REVISIONS, 2024.
   <br>
 
 - **TraInterSim: Adaptive and Planning-Aware Hybrid-Driven Traffic Intersection Simulation**
@@ -190,6 +207,13 @@ I am currently a Full Professor and Vice Dean with School of Computer and Artifi
   <br>
 
 ## Selected conference papers
+
+- **A Three-Layer Reinforcement Learning-based Approach for Dynamic Task Allocation Under Multiple Task Resource Constraints**
+  <br>
+  Shuo Wang, Yuzhen Zhang, Hao Su, Yazhou Hu, **Pei Lv**
+  <br>
+   AAMAS 2026 (oral).
+  <br>
 
 - **SocialMP: Learning Social Aware Motion Patterns via Additive Fusion for Pedestrian Trajectory Prediction**
   <br>
